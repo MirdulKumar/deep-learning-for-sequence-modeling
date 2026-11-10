@@ -1,0 +1,26 @@
+
+# Data handling and scientific computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+
+# Deep learning - PyTorch
+torch
+tensorboard
+
+# Utilities
+tqdm
+joblib
+requests
+
+# Notebook environment
+jupyter
+ipykernel
